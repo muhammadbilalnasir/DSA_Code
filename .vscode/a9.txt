@@ -1,0 +1,78 @@
+
+void swapping_of_nodes()
+{
+    if (start == NULL)
+    {
+        cout << "\t\t\tTHE LINKED LIST IS EMPTY\n";
+    }
+    else
+    {
+        if (start == last)
+        {
+            cout << "\t\t\tTHE LINKED LIST HAS ONLY ONE NODE\n";
+        }
+        else
+        {
+            int id1, id2;
+            cout << "ENTER THE ID OF THE STUDENT\n";
+            cin >> id1;
+            cout << "ENTER THE ID WITH WHICH YOU WANT TO SWAP\n";
+            cin >> id2;
+            Student *ptr = start;
+            Student *ptr2 = NULL;
+            Student *add_of_prevfirst = NULL;
+            Student *add_of_first = NULL;
+            Student *add_of_prevsecond = NULL;
+            Student *add_of_second = NULL;
+            while (ptr != NULL)
+            {
+                if (ptr->id == id1)
+                {
+                    add_of_prevfirst = ptr2;
+                    add_of_first = ptr;
+                    break;
+                }
+
+                ptr2 = ptr;
+                ptr = ptr->next;
+            }
+            ptr = start;
+            ptr2 = NULL;
+            while (ptr != NULL)
+            {
+                if (ptr->id == id2)
+                {
+                    add_of_prevsecond = ptr2;
+                    add_of_second = ptr;
+                    break;
+                }
+                ptr2 = ptr;
+                ptr = ptr->next;
+            }
+            if (add_of_first == NULL || add_of_second == NULL)
+            {
+                cout << "\t\t\tSWAPPING NOT POSSIBLE AS ID GIVEN IS NOT MATCHING\n";
+            }
+            else
+            {
+                cout << "first" << endl;
+                cout << add_of_prevfirst->id << endl;
+                cout << add_of_prevfirst->name << endl;
+                cout << add_of_first->id << endl;
+                cout << add_of_first->name << endl;
+                cout << "second" << endl;
+                cout << add_of_prevsecond->id << endl;
+                cout << add_of_prevsecond->name << endl;
+                cout << add_of_second->id << endl;
+                cout << add_of_second->name << endl;
+
+                ptr = add_of_first->next;
+                ptr2 = add_of_second->next;
+                add_of_prevfirst->next = add_of_second;
+                add_of_second->next = ptr;
+                add_of_prevsecond->next = add_of_first;
+                add_of_second->next = ptr2;
+            }
+        }
+    }
+}

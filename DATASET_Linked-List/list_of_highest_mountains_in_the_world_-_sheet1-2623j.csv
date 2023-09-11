@@ -1,0 +1,119 @@
+rank,mountain name,heigh m,height ft,loc,prominence,range,parent mountain,first ascent
+1,Mount Everest,8848,29029,Nepal,8848,Mahalangur Himalaya,none,1953
+2,K2 ,8611,28251,Pakistan,4020,Baltoro Karakoram,Mount Everest,1954
+3,Kangchenjunga,8586,28169,Nepal ,3922,Kangchenjunga Himalaya,Mount Everest,1955
+4,Lhotse,8516,27940,Nepal,610,Mahalangur Himalaya,Mount Everest,1956
+5,Makalu,8485,27838,Nepal,2378,Mahalangur Himalaya,Mount Everest,1955
+6,Cho Oyu,8188,26864,Nepal,2340,Mahalangur Himalaya,Mount Everest,1954
+7,Dhaulagiri I,8167,26795,Nepal,3357,Dhaulagiri Himalaya,K2,1960
+8,Manaslu,8163,26781,Nepal,3092,Manaslu Himalaya,Cho Oyu,1956
+9,Nanga Parbat,8126,26660,Pakistan,4608,Nanga Parbat Himalaya,Dhaulagiri,1953
+10,Annapurna I,8091,26545,Nepal,2984,Annapurna Himalaya,Cho Oyu,1950
+11,Gasherbrum I,8080,26509,Pakistan ,2155,Baltoro Karakoram,K2,1958
+12,Broad Peak,8051,26414,Pakistan ,1701,Baltoro Karakoram,Gasherbrum I,1957
+13,Gasherbrum II ,8035,26362,Pakistan,1524,Baltoro Karakoram,Gasherbrum I,1956
+14,Shishapangma ,8027,26335,China,2897,Jugal Himalaya,Cho Oyu,1964
+15,Gyachung Kang,7952,26089,Nepal ,672,Mahalangur Himalaya,Cho Oyu,1964
+,Gasherbrum III,7946,26070,Pakistan ,355,Baltoro Karakoram,Gasherbrum II,1975
+16,Annapurna II,7937,26040,Nepal,2437,Annapurna Himalaya,Annapurna I,1960
+17,Gasherbrum IV ,7932,26024,Pakistan,712,Baltoro Karakoram,Gasherbrum III,1958
+18,Himalchuli,7893,25896,Nepal,1633,Manaslu Himalaya,Manaslu,1960
+19,Distaghil Sar,7884,25866,Pakistan,2525,Hispar Karakoram,K2,1960
+20,Ngadi Chuli,7871,25823,Nepal,1011,Manaslu Himalaya,Manaslu,1970
+,Nuptse,7864,25801,Nepal,305,Mahalangur Himalaya,Lhotse,1961
+21,Khunyang Chhish,7823,25666,Pakistan,1765,Hispar Karakoram,Distaghil Sar,1971
+22,Masherbrum,7821,25659,Pakistan,2457,Masherbrum Karakoram,Gasherbrum I,1960
+23,Nanda Devi,7816,25643,India,3139,Garhwal Himalaya,Dhaulagiri,1936
+24,Chomo Lonzo,7804,25604,China,590,Mahalangur Himalaya,Makalu,1954
+25,Batura Sar,7795,25574,Pakistan,3118,Batura Karakoram,Distaghil Sar,1976
+26,Kanjut Sar,7790,25558,Pakistan,1660,Hispar Karakoram,Khunyang Chhish,1959
+27,Rakaposhi,7788,25551,Pakistan,2818,Rakaposhi-Haramosh Karakoram,Khunyang Chhish,1958
+28,Namcha Barwa,7782,25531,China,4106,Assam Himalaya,Kangchenjunga,1992
+29,Kamet,7756,25446,India,2825,Garhwal Himalaya,Nanda Devi,1931
+30,Dhaulagiri II,7751,25430,Nepal,2397,Dhaulagiri Himalaya,Dhaulagiri,1971
+31,Saltoro Kangri ,7742,25400,India ,2160,Saltoro Karakoram,Gasherbrum I,1962
+32,Kumbhakarna ,7711,25299,Nepal,1036,Kangchenjunga Himalaya,Kangchenjunga,1962
+33,Tirich Mir,7708,25289,Pakistan,3910,Hindu Kush,Batura Sar,1950
+,Molamenqing,7703,25272,China,433,Langtang Himalaya,Shishapangma,1981
+34,Gurla Mandhata,7694,25243,China,2788,Nalakankar Himalaya,Dhaulagiri,1985
+35,Saser Kangri I ,7672,25171,India,2304,Saser Karakoram,Gasherbrum I,1973
+36,Chogolisa,7665,25148,Pakistan,1624,Masherbrum Karakoram,Masherbrum,1975
+,Dhaulagiri IV,7661,25135,Nepal,469,Dhaulagiri Himalaya,Dhaulagiri II,1975
+37,Kongur Tagh,7649,25095,China,3585,Kongur Shan (Eastern Pamirs),Distaghil Sar,1981
+,Dhaulagiri V,7618,24993,Nepal,340,Dhaulagiri Himalaya,Dhaulagiri IV,1975
+38,Shispare,7611,24970,Pakistan,1240,Batura Karakoram,Batura Sar,1974
+39,Trivor,7577,24859,Pakistan,997,Hispar Karakoram,Distaghil Sar,1960
+40,Gangkhar Puensum,7570,24836,Bhutan,2995,Kula Kangri Himalaya,Kangchenjunga,0
+41,Gongga Shan,7556,24790,China,3642,Daxue Shan (Hengduan Shan),Mount Everest,1932
+42,Annapurna III,7555,24787,Nepal,703,Annapurna Himalaya,Annapurna I,1961
+43,Skyang Kangri,7545,24754,Pakistan,1085,Baltoro Karakoram,K2,1976
+44,Changtse,7543,24747,China,514,Mahalangur Himalaya,Mount Everest,1982
+45,Kula Kangri,7538,24731,China,1654,Kula Kangri Himalaya,Gangkhar Puensum,1986
+46,Kongur Tiube,7530,24705,China,840,Kongur Shan (Eastern Pamirs),Kongur Tagh,1956
+47,Mamostong Kangri,7516,24659,India,1803,Rimo Karakoram,Gasherbrum I,1984
+48,Saser Kangri II E,7513,24649,India,1458,Saser Karakoram,Saser Kangri I,2011
+49,Muztagh Ata,7509,24636,China,2698,Muztagata (Eastern Pamirs),Kongur Tagh,1956
+50,Ismoil Somoni Peak,7495,24590,Tajikistan,3402,Pamir (Academy of Sciences Range),Muztagh Ata,1933
+51,Saser Kangri III,7495,24590,India,835,Saser Karakoram,Saser Kangri I,1986
+52,Noshaq,7492,24580,Afghanistan • Pakistan,2024,Hindu Kush,Tirich Mir,1960
+53,Pumari Chhish,7492,24580,Pakistan,884,Hispar Karakoram,Khunyang Chhish,1979
+54,Passu Sar,7476,24528,Pakistan,647,Batura Karakoram,Batura Sar,1994
+55,Yukshin Gardan Sar,7469,24505,Pakistan,1374,Hispar Karakoram,Pumari Chhish,1984
+56,Teram Kangri I,7462,24482,India ,1703,Siachen Karakoram,Gasherbrum I,1975
+57,Jongsong Peak,7462,24482,India,1298,Kangchenjunga Himalaya,Kangchenjunga,1930
+58,Malubiting,7458,24469,Pakistan,2193,Rakaposhi-Haramosh Karakoram,Rakaposhi,1971
+59,Gangapurna,7455,24459,Nepal,563,Annapurna Himalaya,Annapurna III,1965
+60,Jengish Chokusu ,7439,24406,Kyrgyzstan • China,4148,Tian Shan,Ismail Samani Peak,1956
+,Sunanda Devi ,7434,24390,India,229,Garhwal Himalaya,Nanda Devi,1939
+61,K12,7428,24370,India ,1978,Saltoro Karakoram,Saltoro Kangri,1974
+62,Yangra,7422,24350,Nepal,2352,Ganesh Himalaya,Manaslu,1955
+63,Sia Kangri,7422,24350,Pakistan,642,Siachen Karakoram,Gasherbrum I,1934
+64,Momhil Sar,7414,24324,Pakistan,907,Hispar Karakoram,Trivor,1964
+65,Kabru N,7412,24318,India ,720,Kangchenjunga Himalaya,Kangchenjunga,1994
+66,Skil Brum,7410,24311,Pakistan,1152,Baltoro Karakoram,K2,1957
+67,Haramosh Peak,7409,24308,Pakistan,2277,Rakaposhi-Haramosh Karakoram,Malubiting,1958
+68,Istor-o-Nal,7403,24288,Pakistan,1043,Hindu Kush,Noshaq,1969
+69,Ghent Kangri,7401,24281,India,1493,Saltoro Karakoram,Saltoro Kangri,1961
+70,Ultar,7388,24239,Pakistan,688,Batura Karakoram,Shispare,1996
+71,Rimo I,7385,24229,India,1428,Rimo Karakoram,Teram Kangri I,1988
+72,Churen Himal,7385,24229,Nepal,650,Dhaulagiri Himalaya,Dhaulagiri IV,1970
+73,Teram Kangri III,7382,24219,India,520,Siachen Karakoram,Teram Kangri I,1979
+74,Sherpi Kangri,7380,24213,India,1320,Saltoro Karakoram,Ghent Kangri,1976
+75,Labuche Kang,7367,24170,China,1957,Labuche Himalaya,Cho Oyu,1987
+76,Kirat Chuli,7362,24153,India,1168,Kangchenjunga Himalaya,Kangchenjunga,1939
+,Abi Gamin,7355,24131,India ,217,Garhwal Himalaya,Kamet,1950
+,Gimmigela ,7350,24114,India ,432,Kangchenjunga Himalaya,Kangchenjunga,1994
+,Nangpai Gosum,7350,24114,Nepal,427,Mahalangur Himalaya,Cho Oyu,1996
+77,Saraghrar,7349,24111,Pakistan,1979,Hindu Kush,Noshaq,1959
+78,Jomolhari ,7326,24035,Bhutan,2065,Jomolhari Himalaya,Gangkhar Puensum,1937
+79,Chamlang,7321,24019,Nepal,1241,Mahalangur Himalaya,Lhotse,1961
+80,Chongtar,7315,23999,China,1295,Baltoro Karakoram,Skil Brum,1994
+81,Baltoro Kangri,7312,23990,Pakistan,1200,Masherbrum Karakoram,Chogolisa,1976
+82,Siguang Ri,7309,23980,China,669,Mahalangur Himalaya,Cho Oyu,1989
+83,The Crown ,7295,23934,China,1919,Yengisogat Karakoram,Skil Brum (K2),1993
+84,Gyala Peri,7294,23930,China,2942,Assam Himalaya,Mount Everest,1986
+85,Porong Ri,7292,23924,China,512,Langtang Himalaya,Shisha Pangma,1982
+86,Baintha Brakk ,7285,23901,Pakistan,1891,Panmah Karakoram,Kanjut Sar,1977
+87,Yutmaru Sar,7283,23894,Pakistan,680,Hispar Karakoram,Yukshin Gardan Sar,1980
+88,Baltistan Peak ,7282,23891,Pakistan,1962,Masherbrum Karakoram,Chogolisa,1970
+89,Kangpenqing ,7281,23888,China,1345,Baiku Himalaya,Shisha Pangma,1982
+90,Muztagh Tower,7276,23871,Pakistan,1710,Baltoro Karakoram,Skil Brum,1956
+91,Mana Peak,7272,23858,India,732,Garhwal Himalaya,Kamet,1937
+,Dhaulagiri VI,7268,23845,Nepal,488,Dhaulagiri Himalaya,Dhaulagiri IV,1970
+92,Diran,7266,23839,Pakistan,1329,Rakaposhi-Haramosh Karakoram,Malubiting,1968
+93,Labuche Kang III ,7250,23786,China,570,Labuche Himalaya,Labuche Kang,0
+94,Putha Hiunchuli,7246,23773,Nepal,1151,Dhaulagiri Himalaya,Churen Himal,1954
+95,Apsarasas Kangri,7245,23770,India,607,Siachen Karakoram,Teram Kangri I,1976
+96,Mukut Parbat,7242,23760,India,683,Garhwal Himalaya,Kamet,1951
+97,Rimo III,7233,23730,India,613,Rimo Karakoram,Rimo I,1985
+98,Langtang Lirung,7227,23711,Nepal,1534,Langtang Himalaya,Shisha Pangma,1978
+99,Karjiang,7221,23691,China,895,Kula Kangri Himalaya,Kula Kangri,0
+100,Annapurna Dakshin,7219,23684,Nepal,769,Annapurna Himalaya,Annapurna,1964
+101,Khartaphu,7213,23665,China,712,Mahalangur Himalaya,Mount Everest,1935
+102,Tongshanjiabu,7207,23645,Bhutan ,1757,Lunana Himalaya,Gangkar Puensum,0
+103,Malangutti Sar,7207,23645,Pakistan,507,Hispar Karakoram,Distaghil Sar,1985
+104,Noijin Kangsang ,7206,23642,China,2160,Nagarze Himalaya,Gangkar Puensum,1986
+105,Langtang Ri,7205,23638,Nepal,665,Langtang Himalaya,Shisha Pangma,1981
+106,Kangphu Kang,7204,23635,Bhutan,1244,Lunana Himalaya,Tongshanjiabu,2002
+107,Singhi Kangri,7202,23629,India ,730,Siachen Karakoram,Teram Kangri III,1976
+108,Lupghar Sar,7200,23622,Pakistan,730,Hispar Karakoram,Momhil Sar,1979

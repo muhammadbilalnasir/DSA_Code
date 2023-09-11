@@ -1,0 +1,1 @@
+char ch = s2.pop();

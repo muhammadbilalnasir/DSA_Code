@@ -1,0 +1,28 @@
+ if (precedence(x) > precedence(top))
+                {
+                    cout << "third if\n";
+                    push(x);
+                    return '\0';
+                }
+                else if (precedence(x) >= precedence(top))
+                {
+                    while (precedence(x) >= precedence(array[top]))
+                    {
+
+                        cout << "fifth if\n";
+                        char a;
+                        a = pop();
+                        return a;
+                    }
+                    push(x);
+                }
+                // else if (precedence(x) < precedence(top))
+                // {
+                //     cout << "naye wale meuin ghussa \n";
+                //     while (precedence(top) >= precedence(x))
+                //     {
+                //         char a;
+                //         a = pop();
+                //         return a;
+                //     }
+                // }
